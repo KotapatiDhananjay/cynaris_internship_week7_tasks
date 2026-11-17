@@ -1,0 +1,14 @@
+VECTOR DATABASES AND EMBEDDINGS
+
+A vector database stores information as numerical vectors
+called embeddings.
+
+Embeddings represent the meaning of text, images or other
+data in a numerical format. Similar items have vectors
+that are close together in vector space.
+
+Vector databases support semantic search by finding
+information based on meaning rather than only exact
+keyword matches.
+
+Examples include ChromaDB, Pinecone and Weaviate.

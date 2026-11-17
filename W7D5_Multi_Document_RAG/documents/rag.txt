@@ -1,0 +1,9 @@
+Retrieval Augmented Generation (RAG)
+
+Retrieval Augmented Generation combines information retrieval with large language models.
+
+A RAG system first retrieves relevant information from external documents. It then provides the retrieved information as context to a language model to generate an answer.
+
+The main stages are document ingestion, text chunking, embedding generation, vector storage, retrieval, and answer generation.
+
+RAG helps reduce hallucinations by grounding answers in retrieved information.

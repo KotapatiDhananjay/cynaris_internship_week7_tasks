@@ -1,0 +1,9 @@
+Retrieval-Augmented Generation
+
+Retrieval-Augmented Generation (RAG) combines information retrieval with generative AI.
+
+A RAG system first retrieves relevant information from a knowledge source. It then provides the retrieved information to a language model to generate an answer.
+
+RAG helps reduce unsupported answers and allows language models to answer questions using external documents.
+
+Vector databases store document embeddings and support similarity-based retrieval.
