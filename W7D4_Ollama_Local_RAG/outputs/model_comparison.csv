@@ -1,0 +1,70 @@
+question_number,question,model,response,latency_seconds
+1,What is the difference between artificial intelligence and machine learning?,llama3.2:3b,"Here's a simple explanation:
+
+**Artificial Intelligence (AI)**:
+
+Artificial Intelligence is a broad term that refers to the development of computer systems that can perform tasks that typically require human intelligence, such as:
+
+* Understanding natural language
+* Recognizing images and speech
+* Making decisions
+* Solving problems
+
+Think of AI like a super-smart robot that can do many things, but it's not necessarily ""learning"" from its experiences.
+
+**Machine Learning (ML)**:
+
+Machine Learning is a subset of Artificial Intelligence that focuses specifically on developing algorithms that can learn from data and improve their performance over time.
+
+In other words, Machine Learning is a way for computers to learn from experience and get better at doing tasks without being explicitly programmed.
+
+Here",24.958
+1,What is the difference between artificial intelligence and machine learning?,qwen2.5:3b,"Artificial Intelligence (AI) and Machine Learning (ML) are related but distinct fields in the realm of computer science and technology. Here's a simple breakdown:
+
+1. **Artificial Intelligence (AI)**:
+   - AI is a broader concept that aims to create machines capable of performing tasks that typically require human intelligence.
+   - It includes various techniques like natural language processing, robotics, and expert systems.
+   - AI systems can perform tasks without being explicitly programmed for each task.
+
+2. **Machine Learning (ML)**:
+   - ML is a subset of AI that focuses on developing algorithms that allow machines to learn from and make predictions or decisions based on data.
+   - It involves training models to recognize patterns and make decisions without being explicitly programmed.",24.519
+2,Explain how Retrieval Augmented Generation works.,llama3.2:3b,"**Retrieval Augmented Generation (RAG)**
+
+RAG is a type of text generation model that combines the strengths of two techniques: **Retrieval** and **Generation**.
+
+**Retrieval**
+
+In traditional text generation, the model generates text from scratch. In RAG, the model uses a separate **Retrieval** component to first find relevant text in a large database or corpus. This retrieved text is then used as a starting point for the **Generation** component.
+
+**Generation**
+
+The **Generation** component takes the retrieved text and uses it as a prompt to generate new text. The goal is to build upon the existing text, making it more informative, coherent, and engaging.
+
+**How RAG Works**
+
+Here",25.324
+2,Explain how Retrieval Augmented Generation works.,qwen2.5:3b,"Retrieval Augmented Generation (RAG) is a technique used in natural language processing to enhance the quality and relevance of text generation. It combines two main components: a retrieval system and a generative model. Here’s how it works:
+
+1. **Retrieval System**: This part of RAG is responsible for finding relevant documents from a large corpus (a collection of texts) that are likely to contain the information needed for the generation task.
+
+2. **Generative Model**: This component is used to generate text. It can be a language model like GPT-3, which is trained to predict the next word in a sequence based on the context.
+
+3. **Integration**: The retrieval system provides the generative model with a set",31.884
+3,What are the advantages and limitations of running an LLM locally?,llama3.2:3b,"Here are the advantages and limitations of running a Large Language Model (LLM) locally:
+
+**Advantages:**
+
+1. **Faster inference**: Running an LLM locally means you can process text inputs quickly, without relying on a remote server.
+2. **Lower latency**: You don't have to wait for a response from a remote server, which can be useful for real-time applications.
+3. **Data privacy**: By running the LLM locally, you can keep your data private and secure, as you don't have to send it to a remote server.
+4. **Control and customization**: You have full control over the LLM's configuration, weights, and training data, allowing you to tailor it to your specific needs.
+5.",26.685
+3,What are the advantages and limitations of running an LLM locally?,qwen2.5:3b,"Running an Large Language Model (LLM) locally offers several advantages and has some limitations. Here are the key points:
+
+### Advantages:
+1. **Performance**: Running LLMs locally can provide faster response times compared to cloud-based services, as there's no latency associated with network communication.
+2. **Security**: Data stays within your network, reducing the risk of data breaches and ensuring compliance with data privacy regulations.
+3. **Customization**: You can tailor the environment to fit specific needs, such as integrating with other systems or customizing the environment to optimize performance.
+4. **Cost**: Running locally can be more cost-effective, especially if you have a dedicated server or use cloud services with lower costs for local instances.
+5. **Control",23.591

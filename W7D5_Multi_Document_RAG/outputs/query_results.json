@@ -1,0 +1,111 @@
+[
+    {
+        "question": "What is Artificial Intelligence?What is Artificial Intelligence?exit",
+        "answer": "Artificial Intelligence (AI) is a branch of computer science that focuses on creating machines capable of performing tasks that normally require human intelligence. Common applications of AI include virtual assistants, recommendation systems, robotics, healthcare, and autonomous vehicles. AI systems can learn from data, recognize patterns, solve problems, and make decisions. Machine Learning is a subset of Artificial Intelligence. It allows computers to learn from data without being explicitly programmed for every task. The three main categories of Machine Learning are supervised learning, unsupervised learning, and reinforcement learning.",
+        "sources": [
+            "ai.txt",
+            "document1.txt",
+            "ml.txt"
+        ],
+        "latency_seconds": 47.52
+    },
+    {
+        "question": "What is Artificial Intelligence?\u0003\u0002What is Artificial Intelligence?What is Artificial Intelligence?\u0003What is Artificial Intelligence?\u0003What is Artificial Intelligence?Explain the different types of Machine Learning.",
+        "answer": "Artificial Intelligence (AI) is a branch of computer science that focuses on creating machines capable of performing tasks that normally require human intelligence. AI applications include healthcare, education, banking, robotics, and natural language processing. AI systems can learn from data, recognize patterns, solve problems, and make decisions.\n\nMachine Learning is a subset of Artificial Intelligence. It allows computers to learn from data without being explicitly programmed for every task. There are three main categories of Machine Learning: supervised learning, unsupervised learning, and reinforcement learning.\n\n- Supervised learning uses labelled data to train models to make predictions or decisions.\n- Unsupervised learning finds patterns in unlabelled data, often used for clustering or anomaly detection.\n- Reinforcement learning learns through rewards and penalties, where the model learns to take actions to maximize a cumulative reward.\n\nThese are the different types of Machine Learning as explained in the context.",
+        "sources": [
+            "ai.txt",
+            "document1.txt",
+            "ml.txt"
+        ],
+        "latency_seconds": 44.68
+    },
+    {
+        "question": "What is Artificial Intelligence? Explain its main applications.",
+        "answer": "Artificial Intelligence (AI) is a branch of computer science that focuses on creating machines capable of performing tasks that normally require human intelligence. Its main applications include healthcare, education, banking, robotics, and natural language processing.\n\nMachine learning is a subset of AI. It enables computers to learn patterns from data and make predictions. AI systems can learn from data, recognize patterns, solve problems, and make decisions. Machine learning is further divided into three main categories: supervised learning, unsupervised learning, and reinforcement learning.",
+        "sources": [
+            "ai.txt",
+            "document1.txt",
+            "ml.txt"
+        ],
+        "latency_seconds": 33.98
+    },
+    {
+        "question": "Explain the different types of Machine Learning with examples.",
+        "answer": "Machine Learning (ML) is a subset of Artificial Intelligence that allows computers to learn from data without being explicitly programmed for every task. There are three main types of Machine Learning: supervised learning, unsupervised learning, and reinforcement learning.\n\n1. Supervised Learning uses labelled data. In this type of learning, the algorithm is trained on a dataset where the input and the output are both provided. The model learns to predict the output based on the input. For example, in a spam email detection system, the algorithm is trained on a dataset where each email is labeled as either spam or not spam. The algorithm learns to predict whether a new email is spam or not based on the features of the email.\n\n2. Unsupervised Learning finds patterns in unlabelled data. Here, the algorithm is given a dataset without any labels, and it must find patterns or groupings within the data. For instance, in customer segmentation, the algorithm might group customers into different segments based on their purchasing behavior without any prior information about which segments customers belong to.\n\n3. Reinforcement Learning learns through rewards and penalties. In this type of learning, the algorithm interacts with an environment and receives rewards or penalties based on its actions. The goal is to maximize the cumulative",
+        "sources": [
+            "ai.txt",
+            "document2.txt",
+            "ml.txt"
+        ],
+        "latency_seconds": 46.45
+    },
+    {
+        "question": "What is Retrieval-Augmented Generation (RAG)? Explain how it works.",
+        "answer": "Retrieval-Augmented Generation (RAG) combines information retrieval with large language models. A RAG system first retrieves relevant information from external documents. It then provides the retrieved information as context to a language model to generate an answer. The main stages include document ingestion, text chunking, embedding generation, vector storage, retrieval, and answer generation. RAG helps reduce unsupported answers and allows language models to use external documents to answer questions. Vector databases store document embeddings and support similarity-based retrieval. RAG also helps reduce hallucinations by grounding answers in the retrieved information.",
+        "sources": [
+            "document3.txt",
+            "rag.txt"
+        ],
+        "latency_seconds": 29.16
+    },
+    {
+        "question": "Explain how Artificial Intelligence and Machine Learning are related, using information from the uploaded documents.",
+        "answer": "Artificial Intelligence (AI) and Machine Learning are related in that Machine Learning is a subset of AI. AI is a broader field that encompasses various applications including healthcare, education, banking, robotics, and natural language processing. Machine Learning, specifically, is about enabling computers to learn from data without being explicitly programmed for every task. It falls under the AI domain and includes three main categories: supervised learning, unsupervised learning, and reinforcement learning.",
+        "sources": [
+            "ai.txt",
+            "document2.txt",
+            "ml.txt"
+        ],
+        "latency_seconds": 26.28
+    },
+    {
+        "question": "Which documents were used to answer my question about Machine Learning?",
+        "answer": "The context provided does not contain any specific documents used to answer the question about Machine Learning. It only contains general information about Machine Learning, Artificial Intelligence, and their applications.",
+        "sources": [
+            "ai.txt",
+            "document2.txt",
+            "ml.txt"
+        ],
+        "latency_seconds": 24.3
+    },
+    {
+        "question": "What is the capital of Japan?",
+        "answer": "The context provided does not contain any information about the capital of Japan. Therefore, I cannot answer the question \"What is the capital of Japan?\" based solely on the given context.",
+        "sources": [
+            "ai.txt",
+            "document1.txt",
+            "ml.txt"
+        ],
+        "latency_seconds": 20.62
+    },
+    {
+        "question": "What is artificial intelligence?",
+        "answer": "Artificial Intelligence (AI) is a branch of computer science that focuses on creating machines capable of performing tasks that normally require human intelligence. Common applications of AI include virtual assistants, recommendation systems, robotics, healthcare, and autonomous vehicles. AI systems can learn from data, recognize patterns, solve problems, and make decisions. Machine Learning is a subset of Artificial Intelligence, allowing computers to learn from data without being explicitly programmed for every task. The three main categories of Machine Learning are supervised learning, unsupervised learning, and reinforcement learning.",
+        "sources": [
+            "ai.txt",
+            "document1.txt",
+            "ml.txt"
+        ],
+        "latency_seconds": 29.9
+    },
+    {
+        "question": "What are the three types of machine learning?",
+        "answer": "The three types of machine learning are supervised learning, unsupervised learning, and reinforcement learning.",
+        "sources": [
+            "ai.txt",
+            "document2.txt",
+            "ml.txt"
+        ],
+        "latency_seconds": 16.02
+    },
+    {
+        "question": "What is retrieval-augmented generation?",
+        "answer": "Retrieval-Augmented Generation (RAG) is a method that combines information retrieval with large language models. A RAG system first retrieves relevant information from external documents. It then provides this retrieved information as context to a language model to generate an answer. This approach helps reduce unsupported answers and allows language models to use external documents to provide more accurate responses.",
+        "sources": [
+            "document1.txt",
+            "document3.txt",
+            "rag.txt"
+        ],
+        "latency_seconds": 28.44
+    }
+]

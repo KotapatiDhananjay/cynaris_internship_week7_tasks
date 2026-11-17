@@ -1,0 +1,67 @@
+prompt_number,model,prompt,response,latency_seconds
+1,llama3.2:3b,What is artificial intelligence? Explain with two examples.,"**What is Artificial Intelligence?**
+
+Artificial Intelligence (AI) is a type of computer science that focuses on creating machines that can think and learn like humans. It's a way to make computers intelligent, so they can perform tasks that normally require human intelligence, such as:
+
+* Understanding language
+* Recognizing images
+* Making decisions
+* Solving problems
+
+**Two Examples of Artificial Intelligence:**
+
+1. **Virtual Assistants (e.g., Siri, Alexa)**
+
+Imagine you're at home, and you ask Siri or Alexa to play some music. These virtual assistants use AI to understand what you said and respond accordingly. They can:
+
+* Recognize your voice and language
+* Understand what you want to do (play music)
+*",29.644
+2,llama3.2:3b,Explain supervised and unsupervised machine learning.,"Here's an explanation of supervised and unsupervised machine learning in simple terms:
+
+**Supervised Machine Learning:**
+
+* In supervised machine learning, the computer is trained on labeled data.
+* ""Labeled"" means that the data has a correct answer or output already assigned to it.
+* The goal is to teach the computer to make predictions or decisions based on the labeled data.
+* The computer learns from the labeled data by identifying patterns and relationships between the input data and the correct output.
+* Examples of supervised learning include:
+	+ Image classification (e.g., classifying images of dogs vs. cats)
+	+ Sentiment analysis (e.g., determining whether a movie review is positive or negative)
+	+ Predicting house prices based on features",25.572
+3,llama3.2:3b,What is Retrieval Augmented Generation (RAG)?,"**What is Retrieval Augmented Generation (RAG)?**
+
+Retrieval Augmented Generation (RAG) is a type of artificial intelligence (AI) model that combines the strengths of two popular AI techniques: **Retrieval** and **Generation**.
+
+**Retrieval** is a technique used in natural language processing (NLP) to find relevant information in a database or knowledge graph. It's like searching for a specific book in a library.
+
+**Generation** is a technique used in NLP to create new text, such as writing a story or generating a response to a question.
+
+**RAG** combines these two techniques to generate new text by:
+
+1. Retrieving relevant information from a database or knowledge graph.
+2.",27.859
+4,llama3.2:3b,Explain vector databases and embeddings.,"I'd be happy to explain vector databases and embeddings in simple terms.
+
+**Vector Databases:**
+
+A vector database is a type of database that stores data as vectors, which are mathematical representations of objects in a high-dimensional space. Think of it like a map where each point on the map represents a piece of data, and the coordinates of that point represent the features of that data.
+
+In a traditional database, data is stored as rows and columns, where each cell contains a value. In a vector database, data is stored as a single vector, which contains all the features of the data point.
+
+**Why Vector Databases?**
+
+Vector databases are useful when you need to perform operations on data that have many features, such as images, text,",25.231
+5,llama3.2:3b,What is the difference between NLP and traditional programming?,"Here's a simple explanation:
+
+**Traditional Programming:**
+
+Traditional programming is about writing code that directly tells a computer what to do. You write a set of instructions, and the computer follows them exactly. It's like giving a recipe to a chef. The chef follows the recipe, and the dish is made.
+
+**Natural Language Processing (NLP):**
+
+NLP is a subset of artificial intelligence (AI) that deals with how computers understand, interpret, and generate human language. It's like teaching a computer to read a recipe book. Instead of giving the computer a set of instructions, you give it a piece of text, and it tries to understand what it means.
+
+The key differences are:
+
+* **Direct vs. Indirect**: Traditional programming",26.575

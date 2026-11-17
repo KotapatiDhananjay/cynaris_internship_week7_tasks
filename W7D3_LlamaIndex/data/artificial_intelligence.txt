@@ -1,0 +1,13 @@
+ARTIFICIAL INTELLIGENCE
+
+Artificial Intelligence (AI) is a branch of computer science
+that develops machines and software capable of performing
+tasks that normally require human intelligence.
+
+Examples of AI applications include virtual assistants,
+recommendation systems, image recognition, speech recognition
+and autonomous vehicles.
+
+Machine Learning is a subset of Artificial Intelligence.
+Deep Learning is a subset of Machine Learning that uses
+neural networks with multiple layers.

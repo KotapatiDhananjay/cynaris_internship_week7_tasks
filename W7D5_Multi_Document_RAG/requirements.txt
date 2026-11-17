@@ -1,0 +1,15 @@
+crewai
+langgraph
+langchain-core
+langchain-ollama
+langchain-chroma
+chromadb
+pypdf
+sentence-transformers
+mlflow
+ragas
+datasets
+pandas
+python-dotenv
+pytest
+langchain-text-splitters

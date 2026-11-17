@@ -1,0 +1,12 @@
+NATURAL LANGUAGE PROCESSING
+
+Natural Language Processing (NLP) is a field of Artificial
+Intelligence that helps computers understand, process and
+generate human language.
+
+Common NLP tasks include tokenization, stemming,
+lemmatization, sentiment analysis, text classification
+and machine translation.
+
+NLP is used in chatbots, virtual assistants, language
+translation applications and email spam detection.

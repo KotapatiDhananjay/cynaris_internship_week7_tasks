@@ -1,0 +1,7 @@
+Artificial Intelligence (AI)
+
+Artificial Intelligence is a branch of computer science that creates systems capable of performing tasks that normally require human intelligence.
+
+Applications include healthcare, education, banking, robotics, and natural language processing.
+
+Machine learning is a subset of artificial intelligence. It enables computers to learn patterns from data and make predictions.
